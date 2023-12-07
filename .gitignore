@@ -1,3 +1,6 @@
+# customized
+.idea
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 simcse/__pycache__/
